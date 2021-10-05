@@ -12,8 +12,6 @@
     <li> 제 코드가 표준이 되는 그날까지! 끊임없이 정진하겠습니다 🏃 </li>
 </ul>
 
-<em><small>Do not weep; do not wax indignant. Understand. - Baruch Spinoza</small></em>
-
 
 ## **Skills** 💪
 
@@ -87,3 +85,7 @@
     </td>
 </tr>
 </table>
+
+<hr>
+
+<em><small>Do not weep; do not wax indignant. Understand. - Baruch Spinoza</small></em>
