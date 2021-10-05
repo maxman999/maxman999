@@ -1,22 +1,26 @@
-# Jiyong Kim 👋
+# Jiyong Kim  👋
 
-[![Website](https://img.shields.io/badge/WEBSITE-white?logo=GoogleChrome)](url)
-<a href="mailto:rlagkfqo55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:rlagkfqo55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+[![Website](https://img.shields.io/badge/WEBSITE-blue?style=for-the-badge&logo=GoogleChrome&logoColor=white)](url)
 
-
-
+<ul>
+    <li> 이제 막 개발을 시작한 주니어 개발자입니다 👋 </li>
+    <li> 모토는 <b>all-around perfection!</b> 빈틈없는 개발로 명품과 같은 어플리케이션을 만들고 싶습니다 💪 </li>
+    <li> 풀스택 개발자를 목표로 하고 있으며, 4차 산업의 꽃 AI도 함께 공부하고 있습니다. </li>
+    <li> 독서와 산책을 좋아하며, 배움이 미덕이자 경쟁력인 IT 업계의 특성에 매료되어 개발을 시작하게 되었습니다. </li>
+    <li> 명품을 만들기 위해 개발방법론도 틈틈히 공부하고 있으며, 특히 TDD에 많은 관심을 갖고 있습니다. </li>
+    <li> 제 코드가 표준이 되는 그날까지! 끊임없이 정진하겠습니다 🏃 </li>
+</ul>
 
 <em><small>Do not weep; do not wax indignant. Understand. - Baruch Spinoza</small></em>
-
-<hr>
 
 
 ## **Skills** 💪
 
-## **1. Languages** 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=black"/>
+> #### **1. Languages** 
+<img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?logo=JAVASCRIPT&logoColor=black"/>
 
-## **2. Frameworks** for Web
+> #### **2. Frameworks** for Web
 <table> 
 <tr>
     <th> Backend</th>
@@ -36,7 +40,7 @@
 </tr>
 </table>
 
-## **3. Frameworks** for MachineLearning
+> #### **3. Frameworks** for MachineLearning
 <table> 
 <tr>
     <th> Web Crawler</th>
@@ -55,7 +59,7 @@
 </table>
 
 
-## **4. Others**
+> #### **4. Others**
 <table> 
 <tr>
     <th> DataBase</th>
