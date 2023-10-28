@@ -30,9 +30,8 @@
         <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=flat-square&logo=SPRINGBOOT&logoColor=white"/>
     </td>
     <td>
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=JQUERY&logoColor=white"/>
-
-
         <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=BOOTSTRAP&logoColor=white"/>
         <img src="https://img.shields.io/badge/THYMELEAF-005F0F?style=flat-square&logo=THYMELEAF&logoColor=white"/>
     </td>
