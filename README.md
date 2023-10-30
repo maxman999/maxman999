@@ -1,7 +1,7 @@
 # 김 지 용 👋
 
 > <a href="mailto:rlagkfqo55@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="http://www.psy-code.com"><img src= 'https://img.shields.io/badge/visit my site-blue?style=for-the-badge&logo=GoogleChrome&logoColor=white'/></a>
+<a href="https://gourmet-pick.com/"><img src= 'https://img.shields.io/badge/visit my site-blue?style=for-the-badge&logo=GoogleChrome&logoColor=white'/></a>
 
 <ul>
     <li> 모토는 <b>all-around perfect!</b> 빈틈없는 개발로 명품과 같은 애플리케이션을 만들고 싶습니다 💪 </li>
